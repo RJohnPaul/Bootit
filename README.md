@@ -12,7 +12,7 @@ It contains templates blended with GSAP as well
 
 ## Installation
 
-Follow these steps to set up the project locally:
+Follow below steps to set up the project locally:
 
 1. Clone the repository:
 
