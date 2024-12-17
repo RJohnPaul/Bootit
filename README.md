@@ -1,6 +1,7 @@
 # Bootit
 
 Bootit is a lightweight, modular, and efficient project designed to provide a foundation for scalable and customizable web applications. With a focus on simplicity and flexibility, Bootit empowers developers to build applications with ease.
+It contains templates blended with GSAP as well
 
 ## Features
 
@@ -11,7 +12,7 @@ Bootit is a lightweight, modular, and efficient project designed to provide a fo
 
 ## Installation
 
-Follow these steps to set up the project locally:
+Follow below steps to set up the project locally:
 
 1. Clone the repository:
 
